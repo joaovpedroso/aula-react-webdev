@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 //Importar o reactstrap - Bootsrap 4 -- import { componente } from 'libName'
 import { Alert, Button } from 'reactstrap';
 import Artigo from '../components/Artigo';
-import Contador from '../components/Contador';
+//import Contador from '../components/Contador';
 
 class HomePage extends Component {
 

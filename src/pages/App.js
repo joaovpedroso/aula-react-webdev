@@ -6,7 +6,7 @@ import LoginPage from './LoginPage';
 import Menu from '../components/Menu';
 
 //Importar o reactstrap - Bootsrap 4 -- import { componente } from 'libName'
-import { Container, Nav, NavItem } from 'reactstrap';
+import { Container } from 'reactstrap';
 import './App.css';
 
 import {
